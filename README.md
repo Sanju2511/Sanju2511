@@ -64,7 +64,7 @@ Currently exploring core ML algorithms, data analysis techniques, and real-world
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *[Add your link here](https://www.linkedin.com/in/sanjaydasu)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/sanjaydasu*
 - 📧 Email: *sanjaydasu2005@gmail.com*
 - 🌐 GitHub: You're already here 😉
 
